@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dbcV3_museum"
+  id="myeclipse.1461033589448"
+  context-root="/dbcV3_museum"
+  j2ee-spec="5.0"
+  archive="dbcV3_museum.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
